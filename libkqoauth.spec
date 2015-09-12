@@ -5,7 +5,7 @@
 
 Name:           libkqoauth
 Version:        0.98
-Release:        2
+Release:        3
 Summary:        C++/Qt OAuth 1.0 RFC 5849 library
 License:        LGPLv3+
 Group:          System/Libraries
