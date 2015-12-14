@@ -3,6 +3,8 @@
 %define	devname	%mklibname %{oname} -d
 %define	oname kqoauth
 
+%define _disable_lto 1
+
 Name:           libkqoauth
 Version:        0.98
 Release:        3
