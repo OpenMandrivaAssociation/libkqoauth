@@ -16,6 +16,7 @@ Url:            https://github.com/kypeli/kQOAuth
 Source0:        kQOAuth-%{version}.tar.gz
 Patch0:         libdir.patch
 
+BuildRequires:	make
 BuildRequires:  pkgconfig(QtNetwork) >= 4.7
 
 %description
